@@ -37,7 +37,7 @@ npm install
 
 	
 #### Run
-- Edit .env files and specify with your [env variables]()
+- Edit .env files and specify with your [env variables](https://github.com/CH2-PS484-Capstone/cloud-computing/blob/najwalailaa-patch-1/.env)
 - Run the app
 ```
 npm start

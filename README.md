@@ -1,13 +1,12 @@
+# Say Hello to Explorin API 👋
 
-## Say Hello to Explorin API
-
-## Cloud Computing Team
+## Cloud Computing Team 
 | Student ID | Name | University |
 | ------ | ------ | ------ |
 |C296BSY4298| Ahmad Nasrul Qorib | Universitas Pembangunan Nasional "Veteran" Jawa Timur|
 |C296BSX3844|Najwa Laila Anggraini| Universitas Pembangunan Nasional "Veteran" Jawa Timur|
 
-##CC Tasks
+## Cloud Computing Tasks 
 - Create & Setup Instance Server
 - Designing App Achitecture Diagram
 - Create Table & Database
@@ -15,16 +14,37 @@
 - Authentication System
 - Integrate ML Part
   
-##APIs Services
+## APIs Services
 - User Authentication
 - Destination
 - Review Destination
 
-##Built With
+## Built With 
 - Node.js
 - Express
 - Google Cloud SQL
 
-##Related Link
+## Setup
+#### Install
+- Git Clone
+```
+https://github.com/CH2-PS484-Capstone/cloud-computing.git
+```
+- NPM
+```
+npm install
+```
+
+	
+#### Run
+- Edit .env files and specify with your [env variables]()
+- Run the app
+```
+npm start
+```
+
+
+
+## Related Link 
 - [Database Design](https://drive.google.com/file/d/1XFDaq8dpveQPbntGxui_JM6I2BzWarTh/view?usp=drive_link)
-- [Infrastucture Diagram](https://drive.google.com/file/d/1nVUDr_gX6g2oyrD4Ia4bGF7vRS-kQcLV/view?usp=sharing) 
+- [Infrastucture Diagram](https://drive.google.com/file/d/1nVUDr_gX6g2oyrD4Ia4bGF7vRS-kQcLV/view?usp=sharing)
